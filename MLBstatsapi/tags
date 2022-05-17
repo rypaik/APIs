@@ -1,0 +1,731 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_EXCMD	mixed	/number, pattern, mixed, or combineV2/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PATTERN_LENGTH_LIMIT	96	/0 for no limit/
+!_TAG_PROC_CWD	/Users/jb/GITHUB/RYP_github/APIs/MLBstatsapi/	//
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	5.9.0	/a7ae1df2/
+0	nested_extract.json	/^    {$/;"	o	array:students
+0	nested_json.json	/^    {$/;"	o	array:students
+0	nested_list_dict.json	/^    {$/;"	o	array:students
+0	simple_json.json	/^  {$/;"	o
+1	nested_extract.json	/^    {$/;"	o	array:students
+1	nested_json.json	/^    {$/;"	o	array:students
+1	nested_list_dict.json	/^    {$/;"	o	array:students
+1	simple_json.json	/^  {$/;"	o
+2	nested_extract.json	/^    {$/;"	o	array:students
+2	nested_json.json	/^    {$/;"	o	array:students
+2	nested_list_dict.json	/^    {$/;"	o	array:students
+2	simple_json.json	/^  {$/;"	o
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `attendance`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `awards`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `conferences`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `divisions`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `draft`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `gamePace`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `game_boxscore`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `game_changes`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `game_color_diff`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `game_color_timestamps`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `game_color`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `game_content`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `game_contextMetrics`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `game_diff`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `game_linescore`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `game_playByPlay`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `game_timestamps`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `game_winProbability`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `game`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `highLow`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `homeRunDerby`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `jobs_datacasters`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `jobs_officialScorers`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `jobs_umpire_games`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `jobs_umpires`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `jobs`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `league_allStarBallot`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `league_allStarFinalVote`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `league_allStarWriteIns`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `league`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `meta`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `people_changes`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `people_freeAgents`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `people`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `person_stats`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `person`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `schedule_postseason_series`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `schedule_postseason_tuneIn`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `schedule_postseason`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `schedule_tied`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `schedule`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `season`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `seasons`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `sports_players`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `sports`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `standings`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `stats_leaders`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `stats_streaks`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `stats`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `team_alumni`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `team_coaches`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `team_leaders`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `team_personnel`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `team_roster`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `team_stats`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `team`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `teams_affiliates`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `teams_history`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `teams_stats`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `teams`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `transactions`
+All Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### All Parameters$/;"	S	section:Endpoint: `venue`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `attendance`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `awards`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `conferences`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `divisions`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `draft`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `gamePace`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `game_boxscore`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `game_changes`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `game_color_diff`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `game_color_timestamps`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `game_color`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `game_content`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `game_contextMetrics`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `game_diff`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `game_linescore`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `game_playByPlay`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `game_timestamps`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `game_winProbability`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `game`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `highLow`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `homeRunDerby`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `jobs_datacasters`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `jobs_officialScorers`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `jobs_umpire_games`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `jobs_umpires`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `jobs`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `league_allStarBallot`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `league_allStarFinalVote`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `league_allStarWriteIns`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `league`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `meta`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `people_changes`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `people_freeAgents`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `people`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `person_stats`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `person`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `schedule_postseason_series`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `schedule_postseason_tuneIn`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `schedule_postseason`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `schedule_tied`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `schedule`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `season`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `seasons`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `sports_players`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `sports`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `standings`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `stats_leaders`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `stats_streaks`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `stats`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `team_alumni`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `team_coaches`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `team_leaders`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `team_personnel`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `team_roster`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `team_stats`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `team`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `teams_affiliates`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `teams_history`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `teams_stats`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `teams`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `transactions`
+All Parameters	endpoint_doc.md	/^### All Parameters$/;"	S	section:Endpoint: `venue`
+Baseball-reference API	README.md	/^## Baseball-reference API$/;"	s	chapter:LINKS
+Core functions	MLB-StatsAPI.wiki/All-Functions.md	/^## Core functions$/;"	s
+Data	pandas snippets2.py	/^Data = {'Algorithm': ['Graph', 'Dynamic Programming',$/;"	v
+Data	pandas snippets2.py	/^Data = {'Name': ['GeeksForGeeks','Python'],$/;"	v
+Endpoint: `attendance`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `attendance`$/;"	s
+Endpoint: `attendance`	endpoint_doc.md	/^## Endpoint: `attendance`$/;"	s
+Endpoint: `awards`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `awards`$/;"	s
+Endpoint: `awards`	endpoint_doc.md	/^## Endpoint: `awards`$/;"	s
+Endpoint: `conferences`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `conferences`$/;"	s
+Endpoint: `conferences`	endpoint_doc.md	/^## Endpoint: `conferences`$/;"	s
+Endpoint: `divisions`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `divisions`$/;"	s
+Endpoint: `divisions`	endpoint_doc.md	/^## Endpoint: `divisions`$/;"	s
+Endpoint: `draft`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `draft`$/;"	s
+Endpoint: `draft`	endpoint_doc.md	/^## Endpoint: `draft`$/;"	s
+Endpoint: `gamePace`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `gamePace`$/;"	s
+Endpoint: `gamePace`	endpoint_doc.md	/^## Endpoint: `gamePace`$/;"	s
+Endpoint: `game_boxscore`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `game_boxscore`$/;"	s
+Endpoint: `game_boxscore`	endpoint_doc.md	/^## Endpoint: `game_boxscore`$/;"	s
+Endpoint: `game_changes`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `game_changes`$/;"	s
+Endpoint: `game_changes`	endpoint_doc.md	/^## Endpoint: `game_changes`$/;"	s
+Endpoint: `game_color_diff`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `game_color_diff`$/;"	s
+Endpoint: `game_color_diff`	endpoint_doc.md	/^## Endpoint: `game_color_diff`$/;"	s
+Endpoint: `game_color_timestamps`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `game_color_timestamps`$/;"	s
+Endpoint: `game_color_timestamps`	endpoint_doc.md	/^## Endpoint: `game_color_timestamps`$/;"	s
+Endpoint: `game_color`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `game_color`$/;"	s
+Endpoint: `game_color`	endpoint_doc.md	/^## Endpoint: `game_color`$/;"	s
+Endpoint: `game_content`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `game_content`$/;"	s
+Endpoint: `game_content`	endpoint_doc.md	/^## Endpoint: `game_content`$/;"	s
+Endpoint: `game_contextMetrics`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `game_contextMetrics`$/;"	s
+Endpoint: `game_contextMetrics`	endpoint_doc.md	/^## Endpoint: `game_contextMetrics`$/;"	s
+Endpoint: `game_diff`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `game_diff`$/;"	s
+Endpoint: `game_diff`	endpoint_doc.md	/^## Endpoint: `game_diff`$/;"	s
+Endpoint: `game_linescore`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `game_linescore`$/;"	s
+Endpoint: `game_linescore`	endpoint_doc.md	/^## Endpoint: `game_linescore`$/;"	s
+Endpoint: `game_playByPlay`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `game_playByPlay`$/;"	s
+Endpoint: `game_playByPlay`	endpoint_doc.md	/^## Endpoint: `game_playByPlay`$/;"	s
+Endpoint: `game_timestamps`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `game_timestamps`$/;"	s
+Endpoint: `game_timestamps`	endpoint_doc.md	/^## Endpoint: `game_timestamps`$/;"	s
+Endpoint: `game_winProbability`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `game_winProbability`$/;"	s
+Endpoint: `game_winProbability`	endpoint_doc.md	/^## Endpoint: `game_winProbability`$/;"	s
+Endpoint: `game`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `game`$/;"	s
+Endpoint: `game`	endpoint_doc.md	/^## Endpoint: `game`$/;"	s
+Endpoint: `highLow`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `highLow`$/;"	s
+Endpoint: `highLow`	endpoint_doc.md	/^## Endpoint: `highLow`$/;"	s
+Endpoint: `homeRunDerby`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `homeRunDerby`$/;"	s
+Endpoint: `homeRunDerby`	endpoint_doc.md	/^## Endpoint: `homeRunDerby`$/;"	s
+Endpoint: `jobs_datacasters`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `jobs_datacasters`$/;"	s
+Endpoint: `jobs_datacasters`	endpoint_doc.md	/^## Endpoint: `jobs_datacasters`$/;"	s
+Endpoint: `jobs_officialScorers`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `jobs_officialScorers`$/;"	s
+Endpoint: `jobs_officialScorers`	endpoint_doc.md	/^## Endpoint: `jobs_officialScorers`$/;"	s
+Endpoint: `jobs_umpire_games`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `jobs_umpire_games`$/;"	s
+Endpoint: `jobs_umpire_games`	endpoint_doc.md	/^## Endpoint: `jobs_umpire_games`$/;"	s
+Endpoint: `jobs_umpires`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `jobs_umpires`$/;"	s
+Endpoint: `jobs_umpires`	endpoint_doc.md	/^## Endpoint: `jobs_umpires`$/;"	s
+Endpoint: `jobs`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `jobs`$/;"	s
+Endpoint: `jobs`	endpoint_doc.md	/^## Endpoint: `jobs`$/;"	s
+Endpoint: `league_allStarBallot`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `league_allStarBallot`$/;"	s
+Endpoint: `league_allStarBallot`	endpoint_doc.md	/^## Endpoint: `league_allStarBallot`$/;"	s
+Endpoint: `league_allStarFinalVote`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `league_allStarFinalVote`$/;"	s
+Endpoint: `league_allStarFinalVote`	endpoint_doc.md	/^## Endpoint: `league_allStarFinalVote`$/;"	s
+Endpoint: `league_allStarWriteIns`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `league_allStarWriteIns`$/;"	s
+Endpoint: `league_allStarWriteIns`	endpoint_doc.md	/^## Endpoint: `league_allStarWriteIns`$/;"	s
+Endpoint: `league`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `league`$/;"	s
+Endpoint: `league`	endpoint_doc.md	/^## Endpoint: `league`$/;"	s
+Endpoint: `meta`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `meta`$/;"	s
+Endpoint: `meta`	endpoint_doc.md	/^## Endpoint: `meta`$/;"	s
+Endpoint: `people_changes`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `people_changes`$/;"	s
+Endpoint: `people_changes`	endpoint_doc.md	/^## Endpoint: `people_changes`$/;"	s
+Endpoint: `people_freeAgents`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `people_freeAgents`$/;"	s
+Endpoint: `people_freeAgents`	endpoint_doc.md	/^## Endpoint: `people_freeAgents`$/;"	s
+Endpoint: `people`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `people`$/;"	s
+Endpoint: `people`	endpoint_doc.md	/^## Endpoint: `people`$/;"	s
+Endpoint: `person_stats`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `person_stats`$/;"	s
+Endpoint: `person_stats`	endpoint_doc.md	/^## Endpoint: `person_stats`$/;"	s
+Endpoint: `person`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `person`$/;"	s
+Endpoint: `person`	endpoint_doc.md	/^## Endpoint: `person`$/;"	s
+Endpoint: `schedule_postseason_series`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `schedule_postseason_series`$/;"	s
+Endpoint: `schedule_postseason_series`	endpoint_doc.md	/^## Endpoint: `schedule_postseason_series`$/;"	s
+Endpoint: `schedule_postseason_tuneIn`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `schedule_postseason_tuneIn`$/;"	s
+Endpoint: `schedule_postseason_tuneIn`	endpoint_doc.md	/^## Endpoint: `schedule_postseason_tuneIn`$/;"	s
+Endpoint: `schedule_postseason`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `schedule_postseason`$/;"	s
+Endpoint: `schedule_postseason`	endpoint_doc.md	/^## Endpoint: `schedule_postseason`$/;"	s
+Endpoint: `schedule_tied`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `schedule_tied`$/;"	s
+Endpoint: `schedule_tied`	endpoint_doc.md	/^## Endpoint: `schedule_tied`$/;"	s
+Endpoint: `schedule`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `schedule`$/;"	s
+Endpoint: `schedule`	endpoint_doc.md	/^## Endpoint: `schedule`$/;"	s
+Endpoint: `season`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `season`$/;"	s
+Endpoint: `season`	endpoint_doc.md	/^## Endpoint: `season`$/;"	s
+Endpoint: `seasons`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `seasons`$/;"	s
+Endpoint: `seasons`	endpoint_doc.md	/^## Endpoint: `seasons`$/;"	s
+Endpoint: `sports_players`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `sports_players`$/;"	s
+Endpoint: `sports_players`	endpoint_doc.md	/^## Endpoint: `sports_players`$/;"	s
+Endpoint: `sports`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `sports`$/;"	s
+Endpoint: `sports`	endpoint_doc.md	/^## Endpoint: `sports`$/;"	s
+Endpoint: `standings`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `standings`$/;"	s
+Endpoint: `standings`	endpoint_doc.md	/^## Endpoint: `standings`$/;"	s
+Endpoint: `stats_leaders`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `stats_leaders`$/;"	s
+Endpoint: `stats_leaders`	endpoint_doc.md	/^## Endpoint: `stats_leaders`$/;"	s
+Endpoint: `stats_streaks`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `stats_streaks`$/;"	s
+Endpoint: `stats_streaks`	endpoint_doc.md	/^## Endpoint: `stats_streaks`$/;"	s
+Endpoint: `stats`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `stats`$/;"	s
+Endpoint: `stats`	endpoint_doc.md	/^## Endpoint: `stats`$/;"	s
+Endpoint: `team_alumni`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `team_alumni`$/;"	s
+Endpoint: `team_alumni`	endpoint_doc.md	/^## Endpoint: `team_alumni`$/;"	s
+Endpoint: `team_coaches`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `team_coaches`$/;"	s
+Endpoint: `team_coaches`	endpoint_doc.md	/^## Endpoint: `team_coaches`$/;"	s
+Endpoint: `team_leaders`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `team_leaders`$/;"	s
+Endpoint: `team_leaders`	endpoint_doc.md	/^## Endpoint: `team_leaders`$/;"	s
+Endpoint: `team_personnel`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `team_personnel`$/;"	s
+Endpoint: `team_personnel`	endpoint_doc.md	/^## Endpoint: `team_personnel`$/;"	s
+Endpoint: `team_roster`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `team_roster`$/;"	s
+Endpoint: `team_roster`	endpoint_doc.md	/^## Endpoint: `team_roster`$/;"	s
+Endpoint: `team_stats`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `team_stats`$/;"	s
+Endpoint: `team_stats`	endpoint_doc.md	/^## Endpoint: `team_stats`$/;"	s
+Endpoint: `team`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `team`$/;"	s
+Endpoint: `team`	endpoint_doc.md	/^## Endpoint: `team`$/;"	s
+Endpoint: `teams_affiliates`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `teams_affiliates`$/;"	s
+Endpoint: `teams_affiliates`	endpoint_doc.md	/^## Endpoint: `teams_affiliates`$/;"	s
+Endpoint: `teams_history`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `teams_history`$/;"	s
+Endpoint: `teams_history`	endpoint_doc.md	/^## Endpoint: `teams_history`$/;"	s
+Endpoint: `teams_stats`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `teams_stats`$/;"	s
+Endpoint: `teams_stats`	endpoint_doc.md	/^## Endpoint: `teams_stats`$/;"	s
+Endpoint: `teams`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `teams`$/;"	s
+Endpoint: `teams`	endpoint_doc.md	/^## Endpoint: `teams`$/;"	s
+Endpoint: `transactions`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `transactions`$/;"	s
+Endpoint: `transactions`	endpoint_doc.md	/^## Endpoint: `transactions`$/;"	s
+Endpoint: `venue`	MLB-StatsAPI.wiki/Endpoints.md	/^## Endpoint: `venue`$/;"	s
+Endpoint: `venue`	endpoint_doc.md	/^## Endpoint: `venue`$/;"	s
+Example	MLB-StatsAPI.wiki/Function:-game_highlights.md	/^## Example$/;"	s
+Example	MLB-StatsAPI.wiki/Function:-game_pace.md	/^## Example$/;"	s
+Example	MLB-StatsAPI.wiki/Function:-game_scoring_plays.md	/^## Example$/;"	s
+Example	MLB-StatsAPI.wiki/Function:-get.md	/^## Example$/;"	s
+Example	MLB-StatsAPI.wiki/Function:-league_leaders.md	/^## Example$/;"	s
+Example	MLB-StatsAPI.wiki/Function:-linescore.md	/^## Example$/;"	s
+Example	MLB-StatsAPI.wiki/Function:-lookup_player.md	/^## Example$/;"	s
+Example	MLB-StatsAPI.wiki/Function:-lookup_team.md	/^## Example$/;"	s
+Example	MLB-StatsAPI.wiki/Function:-meta.md	/^## Example$/;"	s
+Example	MLB-StatsAPI.wiki/Function:-player_stats.md	/^## Example$/;"	s
+Example	MLB-StatsAPI.wiki/Function:-roster.md	/^## Example$/;"	s
+Example	MLB-StatsAPI.wiki/Function:-schedule.md	/^## Example$/;"	s
+Example	MLB-StatsAPI.wiki/Function:-standings.md	/^## Example$/;"	s
+Example	MLB-StatsAPI.wiki/Function:-team_leaders.md	/^## Example$/;"	s
+Example:	MLB-StatsAPI.wiki/Function:-boxscore.md	/^## Example:$/;"	s
+Find the team with the longest name	MLB-StatsAPI.wiki/Examples.md	/^### Find the team with the longest name$/;"	S
+Functions that return data in a Python dictionary	MLB-StatsAPI.wiki/All-Functions.md	/^## Functions that return data in a Python dictionary$/;"	s
+Functions that return formatted text	MLB-StatsAPI.wiki/All-Functions.md	/^## Functions that return formatted text$/;"	s
+Get a Python dict of current season or career stat data for a given player.	MLB-StatsAPI.wiki/Function:-player_stat_data.md	/^### Get a Python dict of current season or career stat data for a given player.$/;"	S
+Get a Python list of highlight data for a given game	MLB-StatsAPI.wiki/Function:-game_highlight_data.md	/^### Get a Python list of highlight data for a given game$/;"	S
+Get a dict of standings data for a given league/division and season.	MLB-StatsAPI.wiki/Function:-standings_data.md	/^### Get a dict of standings data for a given league\/division and season.$/;"	S
+Get a formatted boxscore for a given game.	MLB-StatsAPI.wiki/Function:-boxscore.md	/^### Get a formatted boxscore for a given game.$/;"	S
+Get a info about a team or teams based on the team name, city, abbreviation, or file code.	MLB-StatsAPI.wiki/Function:-lookup_team.md	/^### Get a info about a team or teams based on the team name, city, abbreviation, or file code.$/;"	S
+Get a python list of stat leader data for a given team.	MLB-StatsAPI.wiki/Function:-team_leader_data.md	/^### Get a python list of stat leader data for a given team.$/;"	S
+Get a python list of stat leaders overall or for a given league (103=AL, 104=NL).	MLB-StatsAPI.wiki/Function:-league_leader_data.md	/^### Get a python list of stat leaders overall or for a given league (103=AL, 104=NL).$/;"	S
+Get a text-formatted list about pace of game for a given season (back to 1999).	MLB-StatsAPI.wiki/Function:-game_pace.md	/^### Get a text-formatted list about pace of game for a given season (back to 1999).$/;"	S
+Get a text-formatted list of scoring plays for a given game	MLB-StatsAPI.wiki/Function:-game_scoring_plays.md	/^### Get a text-formatted list of scoring plays for a given game$/;"	S
+Get current season or career stats for a given player.	MLB-StatsAPI.wiki/Function:-player_stats.md	/^### Get current season or career stats for a given player.$/;"	S
+Get data about players based on first, last, or full name.	MLB-StatsAPI.wiki/Function:-lookup_player.md	/^### Get data about players based on first, last, or full name.$/;"	S
+Get formatted linescore for a given game.	MLB-StatsAPI.wiki/Function:-linescore.md	/^### Get formatted linescore for a given game.$/;"	S
+Get formatted standings for a given league/division and season.	MLB-StatsAPI.wiki/Function:-standings.md	/^### Get formatted standings for a given league\/division and season.$/;"	S
+Get list of games for a given date/range and/or team/opponent.	MLB-StatsAPI.wiki/Function:-schedule.md	/^### Get list of games for a given date\/range and\/or team\/opponent.$/;"	S
+Get stat leaders for a given team.	MLB-StatsAPI.wiki/Function:-team_leaders.md	/^### Get stat leaders for a given team.$/;"	S
+Get stat leaders overall or for a given league (103=AL, 104=NL).	MLB-StatsAPI.wiki/Function:-league_leaders.md	/^### Get stat leaders overall or for a given league (103=AL, 104=NL).$/;"	S
+Get the gamePk for the given team's most recent completed game.	MLB-StatsAPI.wiki/Function:-last_game.md	/^### Get the gamePk for the given team's most recent completed game.$/;"	S
+Get the gamePk for the given team's next unstarted game.	MLB-StatsAPI.wiki/Function:-next_game.md	/^### Get the gamePk for the given team's next unstarted game.$/;"	S
+Get the highlight video links for a given game	MLB-StatsAPI.wiki/Function:-game_highlights.md	/^### Get the highlight video links for a given game$/;"	S
+Get the roster for a given team.	MLB-StatsAPI.wiki/Function:-roster.md	/^### Get the roster for a given team.$/;"	S
+Installation	MLB-StatsAPI.wiki/Home.md	/^## Installation$/;"	s
+Known `type`s	MLB-StatsAPI.wiki/Function:-meta.md	/^## Known `type`s$/;"	s
+LINKS	README.md	/^# LINKS$/;"	c
+Logging	MLB-StatsAPI.wiki/Home.md	/^## Logging$/;"	s
+MLB DATA API	README.md	/^## MLB DATA API$/;"	s	chapter:LINKS
+MLB-StatsAPI	README.md	/^## MLB-StatsAPI$/;"	s	chapter:LINKS
+Note	MLB-StatsAPI.wiki/Endpoints.md	/^### Note$/;"	S	section:Endpoint: `awards`
+Note	MLB-StatsAPI.wiki/Endpoints.md	/^### Note$/;"	S	section:Endpoint: `divisions`
+Note	MLB-StatsAPI.wiki/Endpoints.md	/^### Note$/;"	S	section:Endpoint: `draft`
+Note	MLB-StatsAPI.wiki/Endpoints.md	/^### Note$/;"	S	section:Endpoint: `game_winProbability`
+Note	MLB-StatsAPI.wiki/Endpoints.md	/^### Note$/;"	S	section:Endpoint: `highLow`
+Note	MLB-StatsAPI.wiki/Endpoints.md	/^### Note$/;"	S	section:Endpoint: `meta`
+Note	MLB-StatsAPI.wiki/Endpoints.md	/^### Note$/;"	S	section:Endpoint: `person_stats`
+Note	MLB-StatsAPI.wiki/Endpoints.md	/^### Note$/;"	S	section:Endpoint: `schedule_postseason_tuneIn`
+Note	MLB-StatsAPI.wiki/Endpoints.md	/^### Note$/;"	S	section:Endpoint: `seasons`
+Note	MLB-StatsAPI.wiki/Endpoints.md	/^### Note$/;"	S	section:Endpoint: `stats_leaders`
+Note	MLB-StatsAPI.wiki/Endpoints.md	/^### Note$/;"	S	section:Endpoint: `stats_streaks`
+Note	MLB-StatsAPI.wiki/Endpoints.md	/^### Note$/;"	S	section:Endpoint: `stats`
+Note	MLB-StatsAPI.wiki/Endpoints.md	/^### Note$/;"	S	section:Endpoint: `team_stats`
+Note	MLB-StatsAPI.wiki/Endpoints.md	/^### Note$/;"	S	section:Endpoint: `teams_stats`
+Note	endpoint_doc.md	/^### Note$/;"	S	section:Endpoint: `awards`
+Note	endpoint_doc.md	/^### Note$/;"	S	section:Endpoint: `divisions`
+Note	endpoint_doc.md	/^### Note$/;"	S	section:Endpoint: `draft`
+Note	endpoint_doc.md	/^### Note$/;"	S	section:Endpoint: `game_winProbability`
+Note	endpoint_doc.md	/^### Note$/;"	S	section:Endpoint: `highLow`
+Note	endpoint_doc.md	/^### Note$/;"	S	section:Endpoint: `meta`
+Note	endpoint_doc.md	/^### Note$/;"	S	section:Endpoint: `person_stats`
+Note	endpoint_doc.md	/^### Note$/;"	S	section:Endpoint: `schedule_postseason_tuneIn`
+Note	endpoint_doc.md	/^### Note$/;"	S	section:Endpoint: `seasons`
+Note	endpoint_doc.md	/^### Note$/;"	S	section:Endpoint: `stats_leaders`
+Note	endpoint_doc.md	/^### Note$/;"	S	section:Endpoint: `stats_streaks`
+Note	endpoint_doc.md	/^### Note$/;"	S	section:Endpoint: `stats`
+Note	endpoint_doc.md	/^### Note$/;"	S	section:Endpoint: `team_stats`
+Note	endpoint_doc.md	/^### Note$/;"	S	section:Endpoint: `teams_stats`
+Output	MLB-StatsAPI.wiki/Function:-league_leaders.md	/^### Output$/;"	S	section:Example
+Output	MLB-StatsAPI.wiki/Function:-lookup_player.md	/^### Output$/;"	S	section:Example
+Output	MLB-StatsAPI.wiki/Function:-lookup_team.md	/^### Output$/;"	S	section:Example
+Output	MLB-StatsAPI.wiki/Function:-player_stats.md	/^### Output$/;"	S	section:Example
+Output	MLB-StatsAPI.wiki/Function:-roster.md	/^### Output$/;"	S	section:Example
+Output	MLB-StatsAPI.wiki/Function:-schedule.md	/^### Output$/;"	S	section:Example
+Output	MLB-StatsAPI.wiki/Function:-standings.md	/^### Output$/;"	S	section:Example
+Output	MLB-StatsAPI.wiki/Function:-team_leaders.md	/^### Output$/;"	S	section:Example
+Output (truncated to show only the first and last records):	MLB-StatsAPI.wiki/Function:-game_scoring_plays.md	/^### Output (truncated to show only the first and last records):$/;"	S	section:Example
+Output:	MLB-StatsAPI.wiki/Function:-boxscore.md	/^### Output:$/;"	S	section:Example:
+Output:	MLB-StatsAPI.wiki/Function:-game_pace.md	/^### Output:$/;"	S	section:Example
+PANDAS LINKS	README.md	/^# PANDAS LINKS$/;"	c
+Print Chase Utley's career hitting stats	MLB-StatsAPI.wiki/Examples.md	/^### Print Chase Utley's career hitting stats$/;"	S
+Print a list of scoring plays from the 4/28/2019 Marlins @ Phillies game	MLB-StatsAPI.wiki/Examples.md	/^### Print a list of scoring plays from the 4\/28\/2019 Marlins @ Phillies game$/;"	S
+Print the Phillies 40-man Roster on opening day of the 2018 season	MLB-StatsAPI.wiki/Examples.md	/^### Print the Phillies 40-man Roster on opening day of the 2018 season$/;"	S
+Print the boxscore and linescore from the A's most recent game (which may be in progress or may not have started yet based on MLB response to 'last game' request)	MLB-StatsAPI.wiki/Examples.md	/^### Print the boxscore and linescore from the A's most recent game (which may be in progress or /;"	S
+Print the linescore for all games the Phillies won in July 2008	MLB-StatsAPI.wiki/Examples.md	/^### Print the linescore for all games the Phillies won in July 2008$/;"	S
+Print the number of games won by the Oakland Athletics in 2018	MLB-StatsAPI.wiki/Examples.md	/^### Print the number of games won by the Oakland Athletics in 2018$/;"	S
+Print the standings from July 4, 2018	MLB-StatsAPI.wiki/Examples.md	/^### Print the standings from July 4, 2018$/;"	S
+Print the top 10 all time career leaders in doubles (NOTE: The extra 8949 records come back in the data from MLB)	MLB-StatsAPI.wiki/Examples.md	/^### Print the top 10 all time career leaders in doubles (NOTE: The extra 8949 records come back /;"	S
+Print the top 5 team leaders in walks for the 2008 Phillies	MLB-StatsAPI.wiki/Examples.md	/^### Print the top 5 team leaders in walks for the 2008 Phillies$/;"	S
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `attendance`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `awards`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `conferences`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `divisions`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `draft`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `gamePace`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `game_boxscore`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `game_changes`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `game_color_diff`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `game_color_timestamps`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `game_color`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `game_content`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `game_contextMetrics`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `game_diff`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `game_linescore`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `game_playByPlay`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `game_timestamps`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `game_winProbability`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `game`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `highLow`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `homeRunDerby`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `jobs_datacasters`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `jobs_officialScorers`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `jobs_umpire_games`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `jobs_umpires`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `jobs`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `league_allStarBallot`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `league_allStarFinalVote`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `league_allStarWriteIns`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `league`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `meta`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `people_changes`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `people_freeAgents`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `people`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `person_stats`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `person`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `schedule_postseason_series`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `schedule_postseason_tuneIn`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `schedule_postseason`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `schedule_tied`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `schedule`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `season`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `seasons`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `sports_players`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `sports`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `standings`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `stats_leaders`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `stats_streaks`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `stats`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `team_alumni`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `team_coaches`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `team_leaders`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `team_personnel`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `team_roster`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `team_stats`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `team`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `teams_affiliates`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `teams_history`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `teams_stats`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `teams`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `transactions`
+Required Parameters	MLB-StatsAPI.wiki/Endpoints.md	/^### Required Parameters$/;"	S	section:Endpoint: `venue`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `attendance`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `awards`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `conferences`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `divisions`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `draft`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `gamePace`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `game_boxscore`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `game_changes`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `game_color_diff`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `game_color_timestamps`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `game_color`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `game_content`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `game_contextMetrics`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `game_diff`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `game_linescore`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `game_playByPlay`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `game_timestamps`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `game_winProbability`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `game`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `highLow`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `homeRunDerby`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `jobs_datacasters`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `jobs_officialScorers`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `jobs_umpire_games`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `jobs_umpires`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `jobs`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `league_allStarBallot`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `league_allStarFinalVote`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `league_allStarWriteIns`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `league`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `meta`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `people_changes`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `people_freeAgents`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `people`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `person_stats`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `person`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `schedule_postseason_series`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `schedule_postseason_tuneIn`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `schedule_postseason`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `schedule_tied`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `schedule`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `season`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `seasons`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `sports_players`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `sports`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `standings`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `stats_leaders`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `stats_streaks`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `stats`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `team_alumni`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `team_coaches`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `team_leaders`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `team_personnel`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `team_roster`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `team_stats`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `team`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `teams_affiliates`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `teams_history`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `teams_stats`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `teams`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `transactions`
+Required Parameters	endpoint_doc.md	/^### Required Parameters$/;"	S	section:Endpoint: `venue`
+Returns a Python dict containing data about pace of game for a given season (back to 1999).	MLB-StatsAPI.wiki/Function:-game_pace_data.md	/^### Returns a Python dict containing data about pace of game for a given season (back to 1999).$/;"	S
+Returns a python dict containing boxscore data for a given game.	MLB-StatsAPI.wiki/Function:-boxscore_data.md	/^## Returns a python dict containing boxscore data for a given game.$/;"	s
+Returns a python dict of scoring plays for a given game.	MLB-StatsAPI.wiki/Function:-game_scoring_play_data.md	/^### Returns a python dict of scoring plays for a given game.$/;"	S
+URL	pandas_snippets.py	/^URL = 'http:\/\/raw.githubusercontent.com\/BindiChen\/machine-learning\/master\/data-analysis\/0/;"	v
+URL: `https://statsapi.mlb.com/api/{ver}/attendance`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/attendance`$/;"	S	section:Endpoint: `attendance`
+URL: `https://statsapi.mlb.com/api/{ver}/attendance`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/attendance`$/;"	S	section:Endpoint: `attendance`
+URL: `https://statsapi.mlb.com/api/{ver}/awards{awardId}{recipients}`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/awards{awardId}{recipients}`$/;"	S	section:Endpoint: `awards`
+URL: `https://statsapi.mlb.com/api/{ver}/awards{awardId}{recipients}`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/awards{awardId}{recipients}`$/;"	S	section:Endpoint: `awards`
+URL: `https://statsapi.mlb.com/api/{ver}/conferences`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/conferences`$/;"	S	section:Endpoint: `conferences`
+URL: `https://statsapi.mlb.com/api/{ver}/conferences`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/conferences`$/;"	S	section:Endpoint: `conferences`
+URL: `https://statsapi.mlb.com/api/{ver}/divisions`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/divisions`$/;"	S	section:Endpoint: `divisions`
+URL: `https://statsapi.mlb.com/api/{ver}/divisions`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/divisions`$/;"	S	section:Endpoint: `divisions`
+URL: `https://statsapi.mlb.com/api/{ver}/draft{prospects}{year}{latest}`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/draft{prospects}{year}{latest}`$/;"	S	section:Endpoint: `draft`
+URL: `https://statsapi.mlb.com/api/{ver}/draft{prospects}{year}{latest}`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/draft{prospects}{year}{latest}`$/;"	S	section:Endpoint: `draft`
+URL: `https://statsapi.mlb.com/api/{ver}/game/changes`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/game\/changes`$/;"	S	section:Endpoint: `game_changes`
+URL: `https://statsapi.mlb.com/api/{ver}/game/changes`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/game\/changes`$/;"	S	section:Endpoint: `game_changes`
+URL: `https://statsapi.mlb.com/api/{ver}/game/{gamePk}/boxscore`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/game\/{gamePk}\/boxscore`$/;"	S	section:Endpoint: `game_boxscore`
+URL: `https://statsapi.mlb.com/api/{ver}/game/{gamePk}/boxscore`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/game\/{gamePk}\/boxscore`$/;"	S	section:Endpoint: `game_boxscore`
+URL: `https://statsapi.mlb.com/api/{ver}/game/{gamePk}/content`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/game\/{gamePk}\/content`$/;"	S	section:Endpoint: `game_content`
+URL: `https://statsapi.mlb.com/api/{ver}/game/{gamePk}/content`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/game\/{gamePk}\/content`$/;"	S	section:Endpoint: `game_content`
+URL: `https://statsapi.mlb.com/api/{ver}/game/{gamePk}/contextMetrics`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/game\/{gamePk}\/contextMetrics`$/;"	S	section:Endpoint: `game_contextMetrics`
+URL: `https://statsapi.mlb.com/api/{ver}/game/{gamePk}/contextMetrics`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/game\/{gamePk}\/contextMetrics`$/;"	S	section:Endpoint: `game_contextMetrics`
+URL: `https://statsapi.mlb.com/api/{ver}/game/{gamePk}/feed/color/diffPatch`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/game\/{gamePk}\/feed\/color\/diffPatch`$/;"	S	section:Endpoint: `game_color_diff`
+URL: `https://statsapi.mlb.com/api/{ver}/game/{gamePk}/feed/color/diffPatch`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/game\/{gamePk}\/feed\/color\/diffPatch`$/;"	S	section:Endpoint: `game_color_diff`
+URL: `https://statsapi.mlb.com/api/{ver}/game/{gamePk}/feed/color/timestamps`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/game\/{gamePk}\/feed\/color\/timestamps`$/;"	S	section:Endpoint: `game_color_timestamps`
+URL: `https://statsapi.mlb.com/api/{ver}/game/{gamePk}/feed/color/timestamps`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/game\/{gamePk}\/feed\/color\/timestamps`$/;"	S	section:Endpoint: `game_color_timestamps`
+URL: `https://statsapi.mlb.com/api/{ver}/game/{gamePk}/feed/color`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/game\/{gamePk}\/feed\/color`$/;"	S	section:Endpoint: `game_color`
+URL: `https://statsapi.mlb.com/api/{ver}/game/{gamePk}/feed/color`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/game\/{gamePk}\/feed\/color`$/;"	S	section:Endpoint: `game_color`
+URL: `https://statsapi.mlb.com/api/{ver}/game/{gamePk}/feed/live/diffPatch`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/game\/{gamePk}\/feed\/live\/diffPatch`$/;"	S	section:Endpoint: `game_diff`
+URL: `https://statsapi.mlb.com/api/{ver}/game/{gamePk}/feed/live/diffPatch`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/game\/{gamePk}\/feed\/live\/diffPatch`$/;"	S	section:Endpoint: `game_diff`
+URL: `https://statsapi.mlb.com/api/{ver}/game/{gamePk}/feed/live/timestamps`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/game\/{gamePk}\/feed\/live\/timestamps`$/;"	S	section:Endpoint: `game_timestamps`
+URL: `https://statsapi.mlb.com/api/{ver}/game/{gamePk}/feed/live/timestamps`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/game\/{gamePk}\/feed\/live\/timestamps`$/;"	S	section:Endpoint: `game_timestamps`
+URL: `https://statsapi.mlb.com/api/{ver}/game/{gamePk}/feed/live`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/game\/{gamePk}\/feed\/live`$/;"	S	section:Endpoint: `game`
+URL: `https://statsapi.mlb.com/api/{ver}/game/{gamePk}/feed/live`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/game\/{gamePk}\/feed\/live`$/;"	S	section:Endpoint: `game`
+URL: `https://statsapi.mlb.com/api/{ver}/game/{gamePk}/linescore`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/game\/{gamePk}\/linescore`$/;"	S	section:Endpoint: `game_linescore`
+URL: `https://statsapi.mlb.com/api/{ver}/game/{gamePk}/linescore`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/game\/{gamePk}\/linescore`$/;"	S	section:Endpoint: `game_linescore`
+URL: `https://statsapi.mlb.com/api/{ver}/game/{gamePk}/playByPlay`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/game\/{gamePk}\/playByPlay`$/;"	S	section:Endpoint: `game_playByPlay`
+URL: `https://statsapi.mlb.com/api/{ver}/game/{gamePk}/playByPlay`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/game\/{gamePk}\/playByPlay`$/;"	S	section:Endpoint: `game_playByPlay`
+URL: `https://statsapi.mlb.com/api/{ver}/game/{gamePk}/winProbability`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/game\/{gamePk}\/winProbability`$/;"	S	section:Endpoint: `game_winProbability`
+URL: `https://statsapi.mlb.com/api/{ver}/game/{gamePk}/winProbability`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/game\/{gamePk}\/winProbability`$/;"	S	section:Endpoint: `game_winProbability`
+URL: `https://statsapi.mlb.com/api/{ver}/gamePace`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/gamePace`$/;"	S	section:Endpoint: `gamePace`
+URL: `https://statsapi.mlb.com/api/{ver}/gamePace`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/gamePace`$/;"	S	section:Endpoint: `gamePace`
+URL: `https://statsapi.mlb.com/api/{ver}/highLow/{orgType}`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/highLow\/{orgType}`$/;"	S	section:Endpoint: `highLow`
+URL: `https://statsapi.mlb.com/api/{ver}/highLow/{orgType}`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/highLow\/{orgType}`$/;"	S	section:Endpoint: `highLow`
+URL: `https://statsapi.mlb.com/api/{ver}/homeRunDerby/{gamePk}{bracket}{pool}`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/homeRunDerby\/{gamePk}{bracket}{pool}`$/;"	S	section:Endpoint: `homeRunDerby`
+URL: `https://statsapi.mlb.com/api/{ver}/homeRunDerby/{gamePk}{bracket}{pool}`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/homeRunDerby\/{gamePk}{bracket}{pool}`$/;"	S	section:Endpoint: `homeRunDerby`
+URL: `https://statsapi.mlb.com/api/{ver}/jobs/datacasters`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/jobs\/datacasters`$/;"	S	section:Endpoint: `jobs_datacasters`
+URL: `https://statsapi.mlb.com/api/{ver}/jobs/datacasters`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/jobs\/datacasters`$/;"	S	section:Endpoint: `jobs_datacasters`
+URL: `https://statsapi.mlb.com/api/{ver}/jobs/officialScorers`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/jobs\/officialScorers`$/;"	S	section:Endpoint: `jobs_officialScorers`
+URL: `https://statsapi.mlb.com/api/{ver}/jobs/officialScorers`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/jobs\/officialScorers`$/;"	S	section:Endpoint: `jobs_officialScorers`
+URL: `https://statsapi.mlb.com/api/{ver}/jobs/umpires/games/{umpireId}`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/jobs\/umpires\/games\/{umpireId}`$/;"	S	section:Endpoint: `jobs_umpire_games`
+URL: `https://statsapi.mlb.com/api/{ver}/jobs/umpires/games/{umpireId}`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/jobs\/umpires\/games\/{umpireId}`$/;"	S	section:Endpoint: `jobs_umpire_games`
+URL: `https://statsapi.mlb.com/api/{ver}/jobs/umpires`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/jobs\/umpires`$/;"	S	section:Endpoint: `jobs_umpires`
+URL: `https://statsapi.mlb.com/api/{ver}/jobs/umpires`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/jobs\/umpires`$/;"	S	section:Endpoint: `jobs_umpires`
+URL: `https://statsapi.mlb.com/api/{ver}/jobs`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/jobs`$/;"	S	section:Endpoint: `jobs`
+URL: `https://statsapi.mlb.com/api/{ver}/jobs`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/jobs`$/;"	S	section:Endpoint: `jobs`
+URL: `https://statsapi.mlb.com/api/{ver}/league/{leagueId}/allStarBallot`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/league\/{leagueId}\/allStarBallot`$/;"	S	section:Endpoint: `league_allStarBallot`
+URL: `https://statsapi.mlb.com/api/{ver}/league/{leagueId}/allStarBallot`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/league\/{leagueId}\/allStarBallot`$/;"	S	section:Endpoint: `league_allStarBallot`
+URL: `https://statsapi.mlb.com/api/{ver}/league/{leagueId}/allStarFinalVote`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/league\/{leagueId}\/allStarFinalVote`$/;"	S	section:Endpoint: `league_allStarFinalVote`
+URL: `https://statsapi.mlb.com/api/{ver}/league/{leagueId}/allStarFinalVote`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/league\/{leagueId}\/allStarFinalVote`$/;"	S	section:Endpoint: `league_allStarFinalVote`
+URL: `https://statsapi.mlb.com/api/{ver}/league/{leagueId}/allStarWriteIns`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/league\/{leagueId}\/allStarWriteIns`$/;"	S	section:Endpoint: `league_allStarWriteIns`
+URL: `https://statsapi.mlb.com/api/{ver}/league/{leagueId}/allStarWriteIns`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/league\/{leagueId}\/allStarWriteIns`$/;"	S	section:Endpoint: `league_allStarWriteIns`
+URL: `https://statsapi.mlb.com/api/{ver}/league`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/league`$/;"	S	section:Endpoint: `league`
+URL: `https://statsapi.mlb.com/api/{ver}/league`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/league`$/;"	S	section:Endpoint: `league`
+URL: `https://statsapi.mlb.com/api/{ver}/people/changes`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/people\/changes`$/;"	S	section:Endpoint: `people_changes`
+URL: `https://statsapi.mlb.com/api/{ver}/people/changes`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/people\/changes`$/;"	S	section:Endpoint: `people_changes`
+URL: `https://statsapi.mlb.com/api/{ver}/people/freeAgents`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/people\/freeAgents`$/;"	S	section:Endpoint: `people_freeAgents`
+URL: `https://statsapi.mlb.com/api/{ver}/people/freeAgents`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/people\/freeAgents`$/;"	S	section:Endpoint: `people_freeAgents`
+URL: `https://statsapi.mlb.com/api/{ver}/people/{personId}/stats/game/{gamePk}`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/people\/{personId}\/stats\/game\/{gamePk}`$/;"	S	section:Endpoint: `person_stats`
+URL: `https://statsapi.mlb.com/api/{ver}/people/{personId}/stats/game/{gamePk}`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/people\/{personId}\/stats\/game\/{gamePk}`$/;"	S	section:Endpoint: `person_stats`
+URL: `https://statsapi.mlb.com/api/{ver}/people/{personId}`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/people\/{personId}`$/;"	S	section:Endpoint: `person`
+URL: `https://statsapi.mlb.com/api/{ver}/people/{personId}`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/people\/{personId}`$/;"	S	section:Endpoint: `person`
+URL: `https://statsapi.mlb.com/api/{ver}/people`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/people`$/;"	S	section:Endpoint: `people`
+URL: `https://statsapi.mlb.com/api/{ver}/people`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/people`$/;"	S	section:Endpoint: `people`
+URL: `https://statsapi.mlb.com/api/{ver}/schedule/games/tied`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/schedule\/games\/tied`$/;"	S	section:Endpoint: `schedule_tied`
+URL: `https://statsapi.mlb.com/api/{ver}/schedule/games/tied`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/schedule\/games\/tied`$/;"	S	section:Endpoint: `schedule_tied`
+URL: `https://statsapi.mlb.com/api/{ver}/schedule/postseason/series`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/schedule\/postseason\/series`$/;"	S	section:Endpoint: `schedule_postseason_series`
+URL: `https://statsapi.mlb.com/api/{ver}/schedule/postseason/series`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/schedule\/postseason\/series`$/;"	S	section:Endpoint: `schedule_postseason_series`
+URL: `https://statsapi.mlb.com/api/{ver}/schedule/postseason/tuneIn`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/schedule\/postseason\/tuneIn`$/;"	S	section:Endpoint: `schedule_postseason_tuneIn`
+URL: `https://statsapi.mlb.com/api/{ver}/schedule/postseason/tuneIn`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/schedule\/postseason\/tuneIn`$/;"	S	section:Endpoint: `schedule_postseason_tuneIn`
+URL: `https://statsapi.mlb.com/api/{ver}/schedule/postseason`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/schedule\/postseason`$/;"	S	section:Endpoint: `schedule_postseason`
+URL: `https://statsapi.mlb.com/api/{ver}/schedule/postseason`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/schedule\/postseason`$/;"	S	section:Endpoint: `schedule_postseason`
+URL: `https://statsapi.mlb.com/api/{ver}/schedule`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/schedule`$/;"	S	section:Endpoint: `schedule`
+URL: `https://statsapi.mlb.com/api/{ver}/schedule`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/schedule`$/;"	S	section:Endpoint: `schedule`
+URL: `https://statsapi.mlb.com/api/{ver}/seasons/{seasonId}`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/seasons\/{seasonId}`$/;"	S	section:Endpoint: `season`
+URL: `https://statsapi.mlb.com/api/{ver}/seasons/{seasonId}`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/seasons\/{seasonId}`$/;"	S	section:Endpoint: `season`
+URL: `https://statsapi.mlb.com/api/{ver}/seasons{all}`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/seasons{all}`$/;"	S	section:Endpoint: `seasons`
+URL: `https://statsapi.mlb.com/api/{ver}/seasons{all}`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/seasons{all}`$/;"	S	section:Endpoint: `seasons`
+URL: `https://statsapi.mlb.com/api/{ver}/sports/{sportId}/players`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/sports\/{sportId}\/players`$/;"	S	section:Endpoint: `sports_players`
+URL: `https://statsapi.mlb.com/api/{ver}/sports/{sportId}/players`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/sports\/{sportId}\/players`$/;"	S	section:Endpoint: `sports_players`
+URL: `https://statsapi.mlb.com/api/{ver}/sports`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/sports`$/;"	S	section:Endpoint: `sports`
+URL: `https://statsapi.mlb.com/api/{ver}/sports`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/sports`$/;"	S	section:Endpoint: `sports`
+URL: `https://statsapi.mlb.com/api/{ver}/standings`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/standings`$/;"	S	section:Endpoint: `standings`
+URL: `https://statsapi.mlb.com/api/{ver}/standings`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/standings`$/;"	S	section:Endpoint: `standings`
+URL: `https://statsapi.mlb.com/api/{ver}/stats/leaders`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/stats\/leaders`$/;"	S	section:Endpoint: `stats_leaders`
+URL: `https://statsapi.mlb.com/api/{ver}/stats/leaders`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/stats\/leaders`$/;"	S	section:Endpoint: `stats_leaders`
+URL: `https://statsapi.mlb.com/api/{ver}/stats/streaks`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/stats\/streaks`$/;"	S	section:Endpoint: `stats_streaks`
+URL: `https://statsapi.mlb.com/api/{ver}/stats/streaks`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/stats\/streaks`$/;"	S	section:Endpoint: `stats_streaks`
+URL: `https://statsapi.mlb.com/api/{ver}/stats`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/stats`$/;"	S	section:Endpoint: `stats`
+URL: `https://statsapi.mlb.com/api/{ver}/stats`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/stats`$/;"	S	section:Endpoint: `stats`
+URL: `https://statsapi.mlb.com/api/{ver}/teams/affiliates`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/teams\/affiliates`$/;"	S	section:Endpoint: `teams_affiliates`
+URL: `https://statsapi.mlb.com/api/{ver}/teams/affiliates`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/teams\/affiliates`$/;"	S	section:Endpoint: `teams_affiliates`
+URL: `https://statsapi.mlb.com/api/{ver}/teams/history`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/teams\/history`$/;"	S	section:Endpoint: `teams_history`
+URL: `https://statsapi.mlb.com/api/{ver}/teams/history`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/teams\/history`$/;"	S	section:Endpoint: `teams_history`
+URL: `https://statsapi.mlb.com/api/{ver}/teams/stats`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/teams\/stats`$/;"	S	section:Endpoint: `teams_stats`
+URL: `https://statsapi.mlb.com/api/{ver}/teams/stats`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/teams\/stats`$/;"	S	section:Endpoint: `teams_stats`
+URL: `https://statsapi.mlb.com/api/{ver}/teams/{teamId}/alumni`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/teams\/{teamId}\/alumni`$/;"	S	section:Endpoint: `team_alumni`
+URL: `https://statsapi.mlb.com/api/{ver}/teams/{teamId}/alumni`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/teams\/{teamId}\/alumni`$/;"	S	section:Endpoint: `team_alumni`
+URL: `https://statsapi.mlb.com/api/{ver}/teams/{teamId}/coaches`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/teams\/{teamId}\/coaches`$/;"	S	section:Endpoint: `team_coaches`
+URL: `https://statsapi.mlb.com/api/{ver}/teams/{teamId}/coaches`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/teams\/{teamId}\/coaches`$/;"	S	section:Endpoint: `team_coaches`
+URL: `https://statsapi.mlb.com/api/{ver}/teams/{teamId}/leaders`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/teams\/{teamId}\/leaders`$/;"	S	section:Endpoint: `team_leaders`
+URL: `https://statsapi.mlb.com/api/{ver}/teams/{teamId}/leaders`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/teams\/{teamId}\/leaders`$/;"	S	section:Endpoint: `team_leaders`
+URL: `https://statsapi.mlb.com/api/{ver}/teams/{teamId}/personnel`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/teams\/{teamId}\/personnel`$/;"	S	section:Endpoint: `team_personnel`
+URL: `https://statsapi.mlb.com/api/{ver}/teams/{teamId}/personnel`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/teams\/{teamId}\/personnel`$/;"	S	section:Endpoint: `team_personnel`
+URL: `https://statsapi.mlb.com/api/{ver}/teams/{teamId}/roster`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/teams\/{teamId}\/roster`$/;"	S	section:Endpoint: `team_roster`
+URL: `https://statsapi.mlb.com/api/{ver}/teams/{teamId}/roster`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/teams\/{teamId}\/roster`$/;"	S	section:Endpoint: `team_roster`
+URL: `https://statsapi.mlb.com/api/{ver}/teams/{teamId}/stats`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/teams\/{teamId}\/stats`$/;"	S	section:Endpoint: `team_stats`
+URL: `https://statsapi.mlb.com/api/{ver}/teams/{teamId}/stats`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/teams\/{teamId}\/stats`$/;"	S	section:Endpoint: `team_stats`
+URL: `https://statsapi.mlb.com/api/{ver}/teams/{teamId}`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/teams\/{teamId}`$/;"	S	section:Endpoint: `team`
+URL: `https://statsapi.mlb.com/api/{ver}/teams/{teamId}`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/teams\/{teamId}`$/;"	S	section:Endpoint: `team`
+URL: `https://statsapi.mlb.com/api/{ver}/teams`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/teams`$/;"	S	section:Endpoint: `teams`
+URL: `https://statsapi.mlb.com/api/{ver}/teams`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/teams`$/;"	S	section:Endpoint: `teams`
+URL: `https://statsapi.mlb.com/api/{ver}/transactions`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/transactions`$/;"	S	section:Endpoint: `transactions`
+URL: `https://statsapi.mlb.com/api/{ver}/transactions`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/transactions`$/;"	S	section:Endpoint: `transactions`
+URL: `https://statsapi.mlb.com/api/{ver}/venues`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/venues`$/;"	S	section:Endpoint: `venue`
+URL: `https://statsapi.mlb.com/api/{ver}/venues`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/venues`$/;"	S	section:Endpoint: `venue`
+URL: `https://statsapi.mlb.com/api/{ver}/{type}`	MLB-StatsAPI.wiki/Endpoints.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/{type}`$/;"	S	section:Endpoint: `meta`
+URL: `https://statsapi.mlb.com/api/{ver}/{type}`	endpoint_doc.md	/^### URL: `https:\/\/statsapi.mlb.com\/api\/{ver}\/{type}`$/;"	S	section:Endpoint: `meta`
+Use	MLB-StatsAPI.wiki/Home.md	/^## Use $/;"	s
+[All Functions · toddrob99/MLB-StatsAPI Wiki · GitHub](https://github.com/toddrob99/MLB-StatsAPI/wiki/All-Functions#functions-that-return-formatted-text)	endpoint_doc.md	/^## [All Functions · toddrob99\/MLB-StatsAPI Wiki · GitHub](https:\/\/github.com\/toddrob99\/ML/;"	s
+[Functions that Return Dicts](https://github.com/toddrob99/MLB-StatsAPI/wiki/All-Functions#functions-that-return-data-in-a-python-dictionary)	endpoint_doc.md	/^## [Functions that Return Dicts](https:\/\/github.com\/toddrob99\/MLB-StatsAPI\/wiki\/All-Functi/;"	s
+address	nested_list_dict.json	/^      "address": "ABC road, London, UK",$/;"	s	object:info
+ap	generate_endpoint_doc.py	/^    ap = list(v['path_params'].keys()) + (v['query_params'] if v['query_params'] != [[]] else []/;"	v
+beginning	pandas_snippets.py	/^beginning = default_timer()$/;"	v
+chemistry	nested_extract.json	/^            "chemistry": 51$/;"	n	object:students.1.grade
+chemistry	nested_extract.json	/^            "chemistry": 61$/;"	n	object:students.0.grade
+chemistry	nested_extract.json	/^            "chemistry": 78$/;"	n	object:students.2.grade
+chemistry	nested_json.json	/^        "chemistry": 51$/;"	n	object:students.1
+chemistry	nested_json.json	/^        "chemistry": 61$/;"	n	object:students.0
+chemistry	nested_json.json	/^        "chemistry": 78$/;"	n	object:students.2
+chemistry	nested_list_dict.json	/^        "chemistry": 51$/;"	n	object:students.1
+chemistry	nested_list_dict.json	/^        "chemistry": 61$/;"	n	object:students.0
+chemistry	nested_list_dict.json	/^        "chemistry": 78$/;"	n	object:students.2
+chemistry	simple_json.json	/^    "chemistry": 51$/;"	n	object:1
+chemistry	simple_json.json	/^    "chemistry": 61$/;"	n	object:0
+chemistry	simple_json.json	/^    "chemistry": 78$/;"	n	object:2
+class	nested_extract.json	/^    "class": "Year 1",$/;"	s
+class	nested_json.json	/^    "class": "Year 1",$/;"	s
+class	nested_list_dict.json	/^    "class": "Year 1",$/;"	s
+contacts	nested_list_dict.json	/^      "contacts": {$/;"	o	object:info
+data	pandas snippets2.py	/^data=["a,b,c,d,\\"x,y\\",e,f"]$/;"	v
+data	pandas_snippets.py	/^    data = json.loads(f.read())# Flatten data$/;"	v
+data	pandas_snippets.py	/^    data = json.loads(f.read())$/;"	v
+data	pandas_snippets.py	/^data = {'Name': ['Bill','Maria','David','James','Mary'],$/;"	v
+dataframe	pandas_snippets.py	/^dataframe = pd.DataFrame.from_dict(json_data, orient="index")$/;"	v
+df	pandas snippets2.py	/^df = pd.DataFrame(Data)$/;"	v
+df	pandas snippets2.py	/^df=pd.DataFrame( list(reader(data)))$/;"	v
+df	pandas_snippets.py	/^df = pd.DataFrame(data)$/;"	v
+df	pandas_snippets.py	/^df = pd.json_normalize($/;"	v
+df	pandas_snippets.py	/^df = pd.json_normalize(data, record_path =['students'])$/;"	v
+df	pandas_snippets.py	/^df = pd.read_json('data\/nested_deep.json')$/;"	v
+df	pandas_snippets.py	/^df = pd.read_json(URL)$/;"	v
+df_nested_list	pandas_snippets.py	/^df_nested_list = pd.json_normalize($/;"	v
+df_nested_list	pandas_snippets.py	/^df_nested_list = pd.json_normalize(data, record_path =['students'])$/;"	v
+email	nested_list_dict.json	/^        "email": "admin@e.com",$/;"	s	object:info.contacts
+ending	pandas_snippets.py	/^ending = default_timer()$/;"	v
+grade	nested_extract.json	/^        "grade": {$/;"	o	object:students.0
+grade	nested_extract.json	/^        "grade": {$/;"	o	object:students.1
+grade	nested_extract.json	/^        "grade": {$/;"	o	object:students.2
+id	nested_extract.json	/^        "id": "A001",$/;"	s	object:students.0
+id	nested_extract.json	/^        "id": "A002",$/;"	s	object:students.1
+id	nested_extract.json	/^        "id": "A003",$/;"	s	object:students.2
+id	nested_json.json	/^        "id": "A001",$/;"	s	object:students.0
+id	nested_json.json	/^        "id": "A002",$/;"	s	object:students.1
+id	nested_json.json	/^        "id": "A003",$/;"	s	object:students.2
+id	nested_list_dict.json	/^        "id": "A001",$/;"	s	object:students.0
+id	nested_list_dict.json	/^        "id": "A002",$/;"	s	object:students.1
+id	nested_list_dict.json	/^        "id": "A003",$/;"	s	object:students.2
+id	simple_json.json	/^    "id": "A001",$/;"	s	object:0
+id	simple_json.json	/^    "id": "A002",$/;"	s	object:1
+id	simple_json.json	/^    "id": "A003",$/;"	s	object:2
+import statsapi	README.md	/^# import statsapi$/;"	c
+info	nested_list_dict.json	/^    "info": {$/;"	o
+json_string	pandas_snippets.py	/^json_string = '{ "name":"John", "age":30, "car":"None" }'$/;"	v
+lb	generate_endpoint_doc.py	/^lb = """$/;"	v
+lbb	generate_endpoint_doc.py	/^lbb = """$/;"	v
+math	nested_extract.json	/^            "math": 60,$/;"	n	object:students.0.grade
+math	nested_extract.json	/^            "math": 79,$/;"	n	object:students.2.grade
+math	nested_extract.json	/^            "math": 89,$/;"	n	object:students.1.grade
+math	nested_json.json	/^        "math": 60,$/;"	n	object:students.0
+math	nested_json.json	/^        "math": 79,$/;"	n	object:students.2
+math	nested_json.json	/^        "math": 89,$/;"	n	object:students.1
+math	nested_list_dict.json	/^        "math": 60,$/;"	n	object:students.0
+math	nested_list_dict.json	/^        "math": 79,$/;"	n	object:students.2
+math	nested_list_dict.json	/^        "math": 89,$/;"	n	object:students.1
+math	simple_json.json	/^    "math": 60,$/;"	n	object:0
+math	simple_json.json	/^    "math": 79,$/;"	n	object:2
+math	simple_json.json	/^    "math": 89,$/;"	n	object:1
+my_list	pandas_snippets.py	/^my_list = df.columns.values.tolist()$/;"	v
+my_list	pandas_snippets.py	/^my_list = list(df)  $/;"	v
+my_list	pandas_snippets.py	/^my_list = list(df)$/;"	v
+name	nested_extract.json	/^        "name": "James",$/;"	s	object:students.1
+name	nested_extract.json	/^        "name": "Jenny",$/;"	s	object:students.2
+name	nested_extract.json	/^        "name": "Tom",$/;"	s	object:students.0
+name	nested_json.json	/^        "name": "James",$/;"	s	object:students.1
+name	nested_json.json	/^        "name": "Jenny",$/;"	s	object:students.2
+name	nested_json.json	/^        "name": "Tom",$/;"	s	object:students.0
+name	nested_list_dict.json	/^        "name": "James",$/;"	s	object:students.1
+name	nested_list_dict.json	/^        "name": "Jenny",$/;"	s	object:students.2
+name	nested_list_dict.json	/^        "name": "Tom",$/;"	s	object:students.0
+name	simple_json.json	/^    "name": "James",$/;"	s	object:1
+name	simple_json.json	/^    "name": "Jenny",$/;"	s	object:2
+name	simple_json.json	/^    "name": "Tom",$/;"	s	object:0
+pd	pandas snippets2.py	/^import pandas as pd$/;"	I	nameref:module:pandas
+pd	pandas_snippets.py	/^import pandas as pd$/;"	I	nameref:module:pandas
+physics	nested_extract.json	/^            "physics": 66,$/;"	n	object:students.0.grade
+physics	nested_extract.json	/^            "physics": 76,$/;"	n	object:students.1.grade
+physics	nested_extract.json	/^            "physics": 90,$/;"	n	object:students.2.grade
+physics	nested_json.json	/^        "physics": 66,$/;"	n	object:students.0
+physics	nested_json.json	/^        "physics": 76,$/;"	n	object:students.1
+physics	nested_json.json	/^        "physics": 90,$/;"	n	object:students.2
+physics	nested_list_dict.json	/^        "physics": 66,$/;"	n	object:students.0
+physics	nested_list_dict.json	/^        "physics": 76,$/;"	n	object:students.1
+physics	nested_list_dict.json	/^        "physics": 90,$/;"	n	object:students.2
+physics	simple_json.json	/^    "physics": 66,$/;"	n	object:0
+physics	simple_json.json	/^    "physics": 76,$/;"	n	object:1
+physics	simple_json.json	/^    "physics": 90,$/;"	n	object:2
+president	nested_list_dict.json	/^      "president": "John Kasich",$/;"	s	object:info
+rp	generate_endpoint_doc.py	/^    rp = [pk for pk, pv in v['path_params'].items() if pv['required'] and pk != 'ver']$/;"	v
+rq	generate_endpoint_doc.py	/^    rq = [' + '.join(q) for q in v['required_params'] if len(q) > 0]$/;"	v
+school_name	nested_extract.json	/^    "school_name": "local primary school",$/;"	s
+school_name	nested_json.json	/^    "school_name": "ABC primary school",$/;"	s
+school_name	nested_list_dict.json	/^    "school_name": "local primary school",$/;"	s
+send_request	api_log/player_search_results.py	/^def send_request():$/;"	f
+students	nested_extract.json	/^    "students": [$/;"	a
+students	nested_json.json	/^    "students": [$/;"	a
+students	nested_list_dict.json	/^    "students": [$/;"	a
+tel	nested_list_dict.json	/^        "tel": "123456789"$/;"	s	object:info.contacts
+your_json	pandas_snippets.py	/^your_json = json.loads(json_string)$/;"	v
