@@ -13,3 +13,5 @@ games_list = statsapi.schedule(start_date='05/16/2022',end_date='05/16/2022')
 # print(games_list[0].keys())
 for games in games_list:
     print(f"Game id: {games['game_id']}: {games['away_name']} vs {games['home_name']}")
+    
+    
